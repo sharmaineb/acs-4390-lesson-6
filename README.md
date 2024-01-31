@@ -134,4 +134,3 @@ Code review your work with another student. This is an important step in the dev
 ### Challenge 6 - Other lists
 
 If you've implemented a second list, add CRUD operations for that list.
-# acs-4390-lesson-6
